@@ -13,9 +13,7 @@ This repository is for sharing codes
 
 - RCNN
 
-    torchvision models [[code]](https://github.com/pytorch/vision/tree/main/torchvision/models/detection)
-
-- RCNN (with multi GPU DDP)
-
-    torchvision examples [[code]](https://github.com/pytorch/vision/tree/main/references/detection)
+    Torchvision models [[code]](https://github.com/pytorch/vision/tree/main/torchvision/models/detection)
+ 
+    Torchvision (with multi GPU DDP) examples [[code]](https://github.com/pytorch/vision/tree/main/references/detection)
     
