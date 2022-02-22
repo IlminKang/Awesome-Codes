@@ -5,8 +5,9 @@ This repository is for sharing codes
 
 - ImageNet classification task (with multi GPU dataparalell)
     
-    pytorch (torchvision models ResNet, VGG, AlexNet) examples [[code]](https://github.com/pytorch/examples/blob/master/imagenet)
-    
+    Pytorch ImageNet training in PyTorch (torchvision models ResNet, VGG, AlexNet) [[code]](https://github.com/pytorch/examples/blob/master/imagenet)
+        
+    NVIDA Apex Mixed Precision ImageNet Training in PyTorch [[code]](https://github.com/pytorch/examples/tree/master/imagenet)
     
 ## Object Detection
 
