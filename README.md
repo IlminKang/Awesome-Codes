@@ -17,3 +17,5 @@ This repository is for sharing codes
  
     Torchvision (with multi GPU DDP) examples [[code]](https://github.com/pytorch/vision/tree/main/references/detection)
     
+    Pytorch implematation [[code]](https://github.com/AlphaJia/pytorch-faster-rcnn)
+    
