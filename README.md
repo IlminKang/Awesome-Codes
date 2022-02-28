@@ -9,6 +9,10 @@ This repository is for sharing codes
         
     NVIDA Apex Mixed Precision ImageNet Training in PyTorch [[code]](https://github.com/pytorch/examples/tree/master/imagenet)
     
+- Tiny-ImageNet classification task
+    
+    Tiny-ImageNet classification validation set pre-process [[code]](https://github.com/tjmoon0104/pytorch-tiny-imagenet)
+    
 ## Object Detection
 
 - RCNN
