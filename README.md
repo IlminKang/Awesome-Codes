@@ -12,6 +12,8 @@ This repository is for sharing codes
 - Tiny-ImageNet classification task
     
     Tiny-ImageNet classification validation set pre-process [[code]](https://github.com/tjmoon0104/pytorch-tiny-imagenet) [[issue]](https://stackoverflow.com/questions/68928265/problem-with-loading-tiny-imagenet-via-torch-dataloader)
+    
+    Tiny-ImageNet dataset(annotations) [[code]](https://github.com/jcjohnson/tiny-imagenet)
 
 - Cifar 100 [[code]](https://github.com/weiaicunzai/pytorch-cifar100)
 
