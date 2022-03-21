@@ -17,6 +17,10 @@ This repository is for sharing codes
 
 - Cifar 100 [[code]](https://github.com/weiaicunzai/pytorch-cifar100)
 
+- Vision Transformers
+
+    - Huggingface vision-transformers [[documentation]](https://huggingface.co/transformers/v4.5.1/model_doc/vit.html) [[colab-tutorial]](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/VisionTransformer/Quick_demo_of_HuggingFace_version_of_Vision_Transformer_inference.ipynb)
+
 
 ## Object Detection
 
