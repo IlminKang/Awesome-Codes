@@ -36,4 +36,3 @@ This repository is for sharing codes
     
     - Scaled YOLOv4 [[code]](https://github.com/WongKinYiu/ScaledYOLOv4)
     
-    
