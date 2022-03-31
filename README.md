@@ -40,7 +40,7 @@ This repository is for sharing codes
 
 - Unsupervised clustering (Image Classification)
 
-    - IIC [[code]](https://github.com/xu-ji/IIC)
+    - IIC(Invariant Information Clustering) [[code]](https://github.com/xu-ji/IIC)
     
         
     -
