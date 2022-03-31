@@ -32,7 +32,7 @@ This repository is for sharing codes
     
     - Pytorch implematation [[code]](https://github.com/AlphaJia/pytorch-faster-rcnn)
 
--YOLO
+- YOLO
     
     - Scaled YOLOv4 [[code]](https://github.com/WongKinYiu/ScaledYOLOv4)
     
