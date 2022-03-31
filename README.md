@@ -36,3 +36,11 @@ This repository is for sharing codes
     
     - Scaled YOLOv4 [[code]](https://github.com/WongKinYiu/ScaledYOLOv4)
     
+## Clustering
+
+- Unsupervised clustering (Image Classification)
+
+    - IIC [[code]](https://github.com/xu-ji/IIC)
+    
+        
+    -
