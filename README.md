@@ -44,7 +44,7 @@ This repository is for sharing codes
 
 - Unbiased Scene Graph Generation from Biased Training
 
-    - github [[code]](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch/tree/master/tools)
+    - github [[code]](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
     
     
 ## Clustering
