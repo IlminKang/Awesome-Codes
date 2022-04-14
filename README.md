@@ -38,7 +38,7 @@ This repository is for sharing codes
 
     - Tutorial YOLOv3 [[code]](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
 
-    - Explain YOLOv3 [[YouTube]](https://www.youtube.com/watch?v=HMgcvgRrDcA)
+    - Explain YOLOv3 [[youtube]](https://www.youtube.com/watch?v=HMgcvgRrDcA)
     
 ## Scene Graph Generation
 
