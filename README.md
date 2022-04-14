@@ -37,6 +37,8 @@ This repository is for sharing codes
     - Scaled YOLOv4 [[code]](https://github.com/WongKinYiu/ScaledYOLOv4)
 
     - Tutorial YOLOv3 [[code]](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+
+    - Explain YOLOv3 [[YouTube]](https://www.youtube.com/watch?v=HMgcvgRrDcA)
     
 ## Scene Graph Generation
 
