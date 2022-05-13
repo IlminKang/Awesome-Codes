@@ -8,6 +8,8 @@ This repository is for sharing codes
     - Pytorch ImageNet training in PyTorch (torchvision models ResNet, VGG, AlexNet) [[code]](https://github.com/pytorch/examples/blob/master/imagenet)
         
     - NVIDA Apex Mixed Precision ImageNet Training in PyTorch [[code]](https://github.com/pytorch/examples/tree/master/imagenet)
+
+    - ImageNet dataset(ILSVRC2012_img_train.tar/ILSVRC2012_img_val.tar) extract sh [[code]](https://github.com/pytorch/examples/blob/main/imagenet/extract_ILSVRC.sh)
     
 - Tiny-ImageNet classification task
     
