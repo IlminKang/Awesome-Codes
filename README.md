@@ -22,7 +22,9 @@ This repository is for sharing codes
 - Vision Transformers
 
     - Huggingface vision-transformers [[documentation]](https://huggingface.co/transformers/v4.5.1/model_doc/vit.html) [[colab-tutorial]](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/VisionTransformer/Quick_demo_of_HuggingFace_version_of_Vision_Transformer_inference.ipynb) [[fine-tune]](https://huggingface.co/blog/fine-tune-vit)[[models]](https://huggingface.co/google)
+    
     - Pytorch train ViT(hyperparameters) [[code]](https://github.com/rwightman/pytorch-image-models#train-validation-inference-scripts)
+    
     - Google ViT (weights) [[code]](https://github.com/google-research/vision_transformer)
 
 
