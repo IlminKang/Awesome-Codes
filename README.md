@@ -1,7 +1,7 @@
 # Awesome-Codes
 This repository is for sharing codes
 
-## Image Classfication task
+## Image Classfication Task
 
 - ImageNet classification task (with multi GPU dataparalell)
     
