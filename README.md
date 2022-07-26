@@ -32,7 +32,7 @@ This repository is for sharing codes
 
 - RCNN
 
-    - Torchvision models [[code]](https://github.com/pytorch/vision/tree/main/torchvision/models/detection)
+    - Torchvision models [[code]](https://github.com/pytorch/vision/tree/main/torchvision/models/detection) [[issue]](https://github.com/pytorch/pytorch/issues/25627)
  
     - Torchvision (with multi GPU DDP) examples [[code]](https://github.com/pytorch/vision/tree/main/references/detection)
     
