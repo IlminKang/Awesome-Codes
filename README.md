@@ -26,6 +26,8 @@ This repository is for sharing codes
     - Pytorch train ViT(hyperparameters) [[code]](https://github.com/rwightman/pytorch-image-models#train-validation-inference-scripts)
     
     - Google ViT (weights) [[code]](https://github.com/google-research/vision_transformer)
+ 
+    - PyTorch Image Models Timm [[code]](https://github.com/huggingface/pytorch-image-models)
 
 
 ## Object Detection
